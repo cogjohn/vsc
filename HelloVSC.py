@@ -1,0 +1,5 @@
+print("Hello VSCode")
+print("Chalo VSCode")
+print("Mello VSCode")
+print("Mello Thod-Jod")
+print("Mello Gattas Fod")
